@@ -1,0 +1,19 @@
+﻿빌드 시작: 2018-05-18 오후 2:44:47
+     1>2 노드의 "C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\paintSample\paintSample.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\local\boost_1_64_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kss0625.midasit\documents\visual studio 2012\projects\memorykeeperproject\serializememorykeepersample\paintsample\paintsample\main.cpp(46): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\kss0625.midasit\documents\visual studio 2012\projects\memorykeeperproject\serializememorykeepersample\paintsample\paintsample\main.cpp(62): warning C4101: 'aspectRatio' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\Debug\paintSample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\Debug\paintSample.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\Debug\paintSample.lib" /MACHINE:X86 Debug\circle.obj
+         Debug\db.obj
+         Debug\entity.obj
+         Debug\line.obj
+         Debug\main.obj
+         paintSample.vcxproj -> C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\Debug\paintSample.exe
+     1>"C:\Users\kss0625.MIDASIT\Documents\Visual Studio 2012\Projects\MemoryKeeperProject\SerializeMemoryKeeperSample\paintSample\paintSample\paintSample.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.03
